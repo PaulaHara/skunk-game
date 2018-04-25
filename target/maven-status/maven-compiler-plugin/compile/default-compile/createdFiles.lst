@@ -1,0 +1,10 @@
+springmvc/model/Dice.class
+springmvc/model/Player.class
+springmvc/service/PlayerService.class
+springmvc/controller/HelloWorldRestController.class
+springmvc/configuration/HelloWorldConfiguration.class
+springmvc/service/DiceService.class
+springmvc/service/PlayerServiceImpl.class
+springmvc/service/DiceServiceImpl.class
+springmvc/configuration/HelloWorldInitializer.class
+springmvc/configuration/CORSFilter.class
